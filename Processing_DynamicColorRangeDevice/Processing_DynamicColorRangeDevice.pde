@@ -1,5 +1,5 @@
 /*
- * Project: ESP32-Cam_DyanmicColorRangeDevice
+ * Project: ESP32-Cam_DynamicColorRangeDevice
  * Description: Merges two images by looking at the RGB values of every pixel and finding the difference between them. The code places the highest -
                 red, green, and blue values from either image as the minuened. This ensures the order you place the images doesn't effect the outcome.
  * Author: Caden Gamache
